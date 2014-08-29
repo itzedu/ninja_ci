@@ -1,0 +1,66 @@
+body{
+	font-family: 'Special Elite', sans-serif;
+}
+
+#container {
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#header p, #header h2 {
+	display: inline-block;
+}
+
+#header p {
+	margin-left: 40px;
+	border: 2px solid black;
+	width: 150px;
+	padding: 5px 0 2px 5px;
+	vertical-align: top;
+}
+
+#gamble {
+	margin: 20px 0;
+}
+
+.get-gold {
+	display: inline-block;
+	border: 3px solid black;
+	width: 240px;
+	height: 240px;
+	text-align: center;
+	margin-right: 1px;
+}
+
+.get-gold h2{
+	padding-top: 35px;
+}
+
+div.get-gold:last-child {
+	margin-right: 0px;
+}
+
+#activities{
+	width: 975px;
+	height: 150px;
+	border: 3px solid black;
+	overflow: scroll;
+	padding: 10px;
+}
+
+.green {
+	color:green;
+	margin: 0;
+}
+
+.red {
+	color:red;
+	margin: 0;
+}
+
+
+
+
+
+
